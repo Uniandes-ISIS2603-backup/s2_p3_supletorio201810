@@ -1,0 +1,30 @@
+[
+	{
+		"nombre": "Estados Unidos",
+		"poblacion": 311591917,
+		"ciudades": [
+			{
+				"nombre": "New York",
+				"poblacion": 8336697
+			},
+			{
+				"nombre": "Los Angeles",
+				"poblacion": 3819702
+			}
+		]
+	},
+	{
+		"nombre": "Italia",
+		"poblacion": 60626442,
+		"ciudades": [
+			{
+				"nombre": "Roma",
+				"poblacion": 2777979
+			},
+			{
+				"nombre": "Florencia",
+				"poblacion": 357318
+			}
+		]
+	}
+]

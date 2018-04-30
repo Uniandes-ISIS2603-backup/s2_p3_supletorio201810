@@ -1,0 +1,18 @@
+<div class="col-md-4">
+    <div class="container-fluid">   
+        <div ng-repeat="i in citiesRecords">
+            <h3>{{i.nombre}}</h3>  
+            <table class="table table-striped table-bordered">
+                <tr>
+                    <th>Ciudad</th>
+                    <th>Población</th>
+
+                </tr>
+                <tr ng-repeat="j in i.ciudades">
+                    <td class="col-md-2">{{j.nombre}}</td>
+                    <td class="col-md-2">{{j.poblacion|number}}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
