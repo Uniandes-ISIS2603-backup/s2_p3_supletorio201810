@@ -29,10 +29,10 @@ En la zona de <script> agregue una instrucción para que se despliegue el códig
 
 Diríjase al proyecto S2_parte2 y revise el archivo index.html, verifique los recursos que está cargando y su estructura. Observará que el archivo index se encuentra completo, al igual que el archivo mod.js.  
 
-## Punto 1: 10%
+## Punto 1: 15%
 Cree el archivo cities.ctrl.js para que realice la carga de los datos desde el archivo 'src/data/ciudades.json' y los ponga en el scope haciendo uso de $http.
 
-## Punto 2: 25%
+## Punto 2: 20%
 Escriba el html que permita desplegar la lista de ciudades (cargadas en el scope) por país como se muestra en la imagen S2_resultadoParte2. 
 Solo tiene que escribir el html correspondiente en el archivo cities.list.html todo lo demás está dado.
 
